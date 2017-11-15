@@ -1,0 +1,21 @@
+{
+    "name": "Adafruit_LEDBackpack",
+    "version": "1.0.0",
+    "keywords": "LED,HT16K33",
+    "description": "Adafruit 8x8矩阵LED和7段LED模块（HT16K33控制芯片）驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Adafruit_LEDBackpack.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "dependencies":
+    {
+        "name": "Adafruit_GFX",
+        "frameworks": "arduino"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}

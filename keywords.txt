@@ -1,0 +1,51 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ Adafruit_LEDBackpack   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+setBrightness  KEYWORD2
+blinkRate  KEYWORD2
+writeDisplay  KEYWORD2
+clear  KEYWORD2
+init  KEYWORD2
+Adafruit_8x8matrix  KEYWORD2
+drawPixel  KEYWORD2
+Adafruit_BicolorMatrix  KEYWORD2
+Adafruit_7segment  KEYWORD2
+write  KEYWORD2
+print  KEYWORD2
+println  KEYWORD2
+writeDigitRaw  KEYWORD2
+writeDigitNum  KEYWORD2
+drawColon  KEYWORD2
+printNumber  KEYWORD2
+printFloat  KEYWORD2
+printError  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+LED_ON  LITERAL1
+LED_OFF  LITERAL1
+LED_RED  LITERAL1
+LED_YELLOW  LITERAL1
+LED_GREEN  LITERAL1
+HT16K33_BLINK_CMD  LITERAL1
+HT16K33_BLINK_DISPLAYON  LITERAL1
+HT16K33_BLINK_OFF  LITERAL1
+HT16K33_BLINK_2HZ  LITERAL1
+HT16K33_BLINK_1HZ  LITERAL1
+HT16K33_BLINK_HALFHZ  LITERAL1
+HT16K33_CMD_BRIGHTNESS  LITERAL1
+SEVENSEG_DIGITS  LITERAL1
